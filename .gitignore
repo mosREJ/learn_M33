@@ -1,0 +1,7 @@
+angol.md
+#*.pdf
+#datasheets/*.pdf
+cmake_manual/*.*
+cmake_manual/
+Pixel_tram_LED_matrix/
+Pixel_tram_LED_matrix/*.*
