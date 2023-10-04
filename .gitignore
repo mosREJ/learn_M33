@@ -1,6 +1,6 @@
 angol.md
-#*.pdf
-#datasheets/*.pdf
+*.pdf
+datasheets/*.pdf
 cmake_manual/*.*
 cmake_manual/
 Pixel_tram_LED_matrix/
