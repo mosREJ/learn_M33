@@ -23,3 +23,12 @@
 - deboard:
 - logic analyzer 
 
+# TODO 
+- get https://omnis-pwr.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma9960731032107668&context=L&vid=48OMNIS_TUR:48TUR&lang=pl&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=BIBLIOTEKA_ALL&query=any,contains,Definitive%20Guide%20to%20Arm%C2%AE%20Cortex%C2%AE-M23%20and%20Cortex-M33%20Processors&mode=Basic
+- and maybe M4 version
+
+
+# Files generated in STMCubeMX 
+- 04.10.23: 
+    - STMCubeMX HAL_L5_version: 1.5.0
+    - CubeMX version: 6.7
